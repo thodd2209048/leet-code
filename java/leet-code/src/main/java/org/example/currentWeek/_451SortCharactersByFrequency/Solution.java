@@ -1,0 +1,28 @@
+package org.example.currentWeek._451SortCharactersByFrequency;
+
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
+//https://leetcode.com/problems/sort-characters-by-frequency/description/
+public class Solution {
+    public static String frequencySort(String s) {
+        Map<Character, Integer> characterCountMap = new HashMap<>();
+        char[] chars = s.toCharArray();
+        for (int i = 0; i < chars.length; i++) {
+            characterCountMap.putIfAbsent(chars[i], 0);
+            characterCountMap.computeIfPresent(chars[i], (key, value) -> value + 1);
+        }
+
+        StringBuilder sb = new StringBuilder();
+        characterCountMap.entrySet().stream()
+                .sorted(Map.Entry.<Character, Integer>comparingByValue().reversed())
+                .forEach(e -> {
+                    char[] chars1 = new char[e.getValue()];
+                    Arrays.fill(chars1, e.getKey());
+                    sb.append(new String(chars1));
+                });
+
+        return sb.toString();
+    }
+}
