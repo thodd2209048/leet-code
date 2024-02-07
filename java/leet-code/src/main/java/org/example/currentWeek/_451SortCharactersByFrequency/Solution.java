@@ -9,9 +9,9 @@ public class Solution {
     public static String frequencySort(String s) {
         Map<Character, Integer> characterCountMap = new HashMap<>();
         char[] chars = s.toCharArray();
-        for (int i = 0; i < chars.length; i++) {
-            characterCountMap.putIfAbsent(chars[i], 0);
-            characterCountMap.computeIfPresent(chars[i], (key, value) -> value + 1);
+        for (char aChar : chars) {
+            characterCountMap.putIfAbsent(aChar, 0);
+            characterCountMap.computeIfPresent(aChar, (key, value) -> value + 1);
         }
 
         StringBuilder sb = new StringBuilder();
