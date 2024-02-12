@@ -1,4 +1,4 @@
-package org.example.currentWeek._268MissingNumber;
+package org.example.longTimeAgo._268MissingNumber;
 
 public class Main {
     public static void main(String[] args) {

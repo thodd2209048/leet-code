@@ -1,4 +1,4 @@
-package org.example.currentWeek._49GroupAnagrams;
+package org.example.longTimeAgo._49GroupAnagrams;
 
 import java.util.*;
 

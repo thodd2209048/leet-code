@@ -1,4 +1,4 @@
-package org.example.currentWeek._368LargestDivisibleSubset;
+package org.example.longTimeAgo;
 
 public class Main {
     public static void main(String[] args) {

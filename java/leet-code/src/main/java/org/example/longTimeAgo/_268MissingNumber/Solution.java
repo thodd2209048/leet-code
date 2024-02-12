@@ -1,4 +1,4 @@
-package org.example.currentWeek._268MissingNumber;
+package org.example.longTimeAgo._268MissingNumber;
 
 //https://leetcode.com/problems/missing-number/
 public class Solution {

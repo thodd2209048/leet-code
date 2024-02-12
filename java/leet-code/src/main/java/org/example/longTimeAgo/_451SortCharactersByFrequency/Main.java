@@ -1,4 +1,4 @@
-package org.example.currentWeek._451SortCharactersByFrequency;
+package org.example.longTimeAgo._451SortCharactersByFrequency;
 
 public class Main {
     public static void main(String[] args) {

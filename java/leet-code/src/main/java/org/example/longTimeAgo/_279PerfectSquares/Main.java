@@ -1,4 +1,4 @@
-package org.example.currentWeek._279PerfectSquares;
+package org.example.longTimeAgo._279PerfectSquares;
 
 public class Main {
     public static void main(String[] args) {

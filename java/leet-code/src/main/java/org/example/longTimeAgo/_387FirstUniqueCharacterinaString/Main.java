@@ -1,4 +1,4 @@
-package org.example.currentWeek._387FirstUniqueCharacterinaString;
+package org.example.longTimeAgo._387FirstUniqueCharacterinaString;
 
 public class Main {
     public static void main(String[] args) {

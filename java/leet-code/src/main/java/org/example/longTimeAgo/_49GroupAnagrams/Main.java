@@ -1,6 +1,4 @@
-package org.example.currentWeek._49GroupAnagrams;
-
-import java.util.Collections;
+package org.example.longTimeAgo._49GroupAnagrams;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.currentWeek._647PalindromicSubstrings;
+package org.example.longTimeAgo._647PalindromicSubstrings;
 
 public class Main {
     public static void main(String[] args) {

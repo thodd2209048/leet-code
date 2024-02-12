@@ -1,4 +1,4 @@
-package org.example.currentWeek._368LargestDivisibleSubset;
+package org.example.longTimeAgo;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package org.example.currentWeek._179LargestNumber;
+package org.example.longTimeAgo._179LargestNumber;
 
 import java.util.ArrayList;
 import java.util.Comparator;

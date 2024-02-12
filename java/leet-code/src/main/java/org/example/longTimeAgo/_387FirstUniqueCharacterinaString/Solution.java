@@ -1,4 +1,4 @@
-package org.example.currentWeek._387FirstUniqueCharacterinaString;
+package org.example.longTimeAgo._387FirstUniqueCharacterinaString;
 
 //https://leetcode.com/problems/first-unique-character-in-a-string
 public class Solution {

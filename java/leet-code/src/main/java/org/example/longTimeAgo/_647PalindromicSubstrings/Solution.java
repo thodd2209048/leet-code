@@ -1,4 +1,4 @@
-package org.example.currentWeek._647PalindromicSubstrings;
+package org.example.longTimeAgo._647PalindromicSubstrings;
 
 import java.util.ArrayList;
 import java.util.HashMap;
