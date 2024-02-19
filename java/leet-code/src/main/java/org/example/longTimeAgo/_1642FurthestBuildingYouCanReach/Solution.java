@@ -1,4 +1,4 @@
-package org.example.currentWeek._1642FurthestBuildingYouCanReach;
+package org.example.longTimeAgo._1642FurthestBuildingYouCanReach;
 
 import java.util.ArrayList;
 import java.util.Collections;

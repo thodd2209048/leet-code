@@ -1,4 +1,4 @@
-package org.example.currentWeek._2971FindPolygonWiththeLargestPerimeter;
+package org.example.longTimeAgo._2971FindPolygonWiththeLargestPerimeter;
 
 public class Main {
     public static void main(String[] args) {

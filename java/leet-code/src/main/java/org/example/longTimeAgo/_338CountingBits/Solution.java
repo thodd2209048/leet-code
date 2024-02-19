@@ -1,4 +1,4 @@
-package org.example.currentWeek._338CountingBits;
+package org.example.longTimeAgo._338CountingBits;
 
 public class Solution {
     public static int[] countBits(int n) {

@@ -1,9 +1,9 @@
-package org.example.currentWeek._338CountingBits;
+package org.example.longTimeAgo._2149RearrangeArrayElementsbySign;
 
 public class Main {
     public static void main(String[] args) {
-        int n = 5;
-        int[] result = Solution.countBits(n);
+        int[] nums = {3,1,-2,-5,2,-4};
+        int[] result = Solution.rearrangeArray(nums);
         for (int num: result
              ) {
             System.out.println(num);

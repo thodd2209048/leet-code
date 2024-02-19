@@ -1,4 +1,4 @@
-package org.example.currentWeek._414ThirdMaximumNumber;
+package org.example.longTimeAgo._414ThirdMaximumNumber;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.currentWeek._414ThirdMaximumNumber;
+package org.example.longTimeAgo._414ThirdMaximumNumber;
 
 import java.util.Arrays;
 import java.util.HashSet;

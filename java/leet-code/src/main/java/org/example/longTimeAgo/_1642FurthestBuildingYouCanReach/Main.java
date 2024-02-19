@@ -1,4 +1,4 @@
-package org.example.currentWeek._1642FurthestBuildingYouCanReach;
+package org.example.longTimeAgo._1642FurthestBuildingYouCanReach;
 
 public class Main {
     public static void main(String[] args) {

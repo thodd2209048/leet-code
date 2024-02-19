@@ -1,4 +1,4 @@
-package org.example.currentWeek._2149RearrangeArrayElementsbySign;
+package org.example.longTimeAgo._2149RearrangeArrayElementsbySign;
 
 public class Solution {
     public static int[] rearrangeArray(int[] nums) {

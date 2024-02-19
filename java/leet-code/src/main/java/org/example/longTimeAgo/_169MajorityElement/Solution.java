@@ -1,4 +1,4 @@
-package org.example.currentWeek._169MajorityElement;
+package org.example.longTimeAgo._169MajorityElement;
 
 import java.util.HashMap;
 import java.util.Map;

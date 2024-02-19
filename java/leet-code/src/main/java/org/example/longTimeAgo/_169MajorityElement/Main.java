@@ -1,4 +1,4 @@
-package org.example.currentWeek._169MajorityElement;
+package org.example.longTimeAgo._169MajorityElement;
 
 public class Main {
     public static void main(String[] args) {

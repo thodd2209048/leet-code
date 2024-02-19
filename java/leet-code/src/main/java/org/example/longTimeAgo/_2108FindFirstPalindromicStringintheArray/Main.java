@@ -1,4 +1,4 @@
-package org.example.currentWeek._2108FindFirstPalindromicStringintheArray;
+package org.example.longTimeAgo._2108FindFirstPalindromicStringintheArray;
 
 public class Main {
     public static void main(String[] args) {
