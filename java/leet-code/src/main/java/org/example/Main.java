@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        String unformattedName = "231. Power of Two";
+        String unformattedName = "258. Add Digits";
         System.out.println(Utils.formatPackageName(unformattedName));
     }
 }
